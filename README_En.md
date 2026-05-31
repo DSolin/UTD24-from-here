@@ -92,7 +92,6 @@ docker compose down                         # Stop
 ```
 
 ## Declaration
-## Declaration
 * This project merely collects public information such as journal titles and authors. It does not involve copyrighted content of the articles.
 * The project is solely for personal study and is not recommended for large-scale use.
 * There is room for improvement in the literature crawling and identification of authors' nationalities. The accuracy rate has some deviations and the statistical results should not be used in rigorous research.
