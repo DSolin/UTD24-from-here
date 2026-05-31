@@ -52,6 +52,8 @@ docker compose up -d --build
 
 
 ## 功能一览
+<div align="center">
+ 
 | 功能 | 说明 |
 | ------------ | ----------- |
 |世界地图|作者全球分布，支持国家下钻|
@@ -64,22 +66,29 @@ docker compose up -d --build
 |收藏星标|一键收藏关注文献|
 |CSV 导出|筛选结果一键导出|
 |更新数据|一键爬取最新文献，带实时进度条|
+</div>
 
 ## 数据来源
+<div align="center">
+ 
 | 来源 | 顺序 |
 | ------------ | ----------- |
 |CrossRef|主力|
 |Semantic Scholar|第二|
 |OpenAlex|第三|
+</div>
 
 
 ## 技术栈
+<div align="center">
+ 
 | 层级 | 技术 |
-| ------------ | ----------- |
-|后端|	FastAPI + SQLAlchemy + PostgreSQL|
-|前端|	Vue 3 + TypeScript + Tailwind CSS|
-|图表|	Apache ECharts|
-|基础设施|	Docker Compose|
+| ----- | ----------- |
+| 后端 |	FastAPI + SQLAlchemy + PostgreSQL|
+| 前端 |	Vue 3 + TypeScript + Tailwind CSS|
+| 图表 |	Apache ECharts|
+| 基础设施 |	Docker Compose|
+</div>
 
 
 ## API 文档
