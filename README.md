@@ -4,7 +4,7 @@
 
 <h3> UTD24 from here · UTD24 Visualization platform <h3>
 
-[简体中文](./README.md) | [English](./README_En.md)
+[简体中文](./README_Cn.md) | [English](./README.md)
 
 *“Broad observation, frugal adoption; deep accumulation, slow expression.”一一Su Shi, a Chinese poet*
 
