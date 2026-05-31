@@ -1,5 +1,5 @@
 
-![UTD24 from here](./images/banner.png)
+![UTD24 from here](./image/banner.png)
 
 
 <h3> UTD24 from here · UTD24 可视化平台 <h3>
@@ -20,13 +20,13 @@
 
 
 ## 页面展示
-![主仪表板](./images/screenshot-dashboard.png)
-![文献爬虫](./images/crawl.png)
-![文献可视化](./images/visualization.png)
-![文献列表](./images/screenshot-literature.png)
-![文献详情](./images/detail.png)
-![搜索页](./images/screenshot-search.png)
-![收藏页](./images/Favorites.png)
+![主仪表板](./image/screenshot-dashboard.png)
+![文献爬虫](./image/crawl.png)
+![文献可视化](./image/visualization.png)
+![文献列表](./image/screenshot-literature.png)
+![文献详情](./image/detail.png)
+![搜索页](./image/screenshot-search.png)
+![收藏页](./image/Favorites.png)
 
 
 ## 🚀 快速开始
