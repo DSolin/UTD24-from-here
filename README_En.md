@@ -1,5 +1,5 @@
 
-![UTD from here](./images/banner.png)
+![UTD from here](./image/banner.png)
 
 
 <h3> UTD24 from here · UTD24 Visualization platform <h3>
@@ -20,13 +20,13 @@
 
 
 ## Page Display 
-![Main Dashboard](./images/screenshot-dashboard.png)
-![Web Crawler](./images/crawl.png)
-![Literature Visualization](./images/visualization.png)
-![Reference List](./images/screenshot-literature.png)
-![Literature Details](./images/detail.png) 
-![Search Page](./images/screenshot-search.png)
-![Favorite Page](./images/Favorites.png)
+![Main Dashboard](./image/screenshot-dashboard.png)
+![Web Crawler](./image/crawl.png)
+![Literature Visualization](./image/visualization.png)
+![Reference List](./image/screenshot-literature.png)
+![Literature Details](./image/detail.png) 
+![Search Page](./image/screenshot-search.png)
+![Favorite Page](./image/Favorites.png)
 
 ## 🚀 Get Started Quickly
 
