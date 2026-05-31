@@ -1,5 +1,5 @@
-<div align="center">
 ![UTD from here](./image/banner.png)
+<div align="center">
 
 
 <h3> UTD24 from here · UTD24 Visualization platform <h3>
