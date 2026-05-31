@@ -1,0 +1,46 @@
+# Environment
+.env
+*.env
+!.env.example
+
+# Python
+__pycache__/
+*.py[cod]
+*.egg-info/
+dist/
+build/
+.venv/
+venv/
+
+# Node
+node_modules/
+frontend/dist/
+frontend/.vite/
+
+# Docker volumes
+docker-data/
+pgadmin/
+postgres-data/
+
+# IDE
+.vscode/
+.idea/
+*.swp
+*.swo
+*~
+
+# OS
+.DS_Store
+Thumbs.db
+desktop.ini
+
+# SQLite
+*.db
+
+# Build output
+backend/static/
+
+# Temp scripts
+fix_*.py
+migrate_*.py
+prepare_for_github*.py

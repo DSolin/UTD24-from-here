@@ -1,0 +1,23 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+@layer base {
+  * { @apply box-border; }
+  body { @apply bg-bg-primary text-gray-700 font-sans; -webkit-font-smoothing: antialiased; }
+  ::-webkit-scrollbar { width: 6px; height: 6px; }
+  ::-webkit-scrollbar-track { @apply bg-transparent; }
+  ::-webkit-scrollbar-thumb { @apply bg-primary-200 rounded-full; }
+  ::-webkit-scrollbar-thumb:hover { @apply bg-primary-300; }
+}
+
+@layer components {
+  .soft-card { @apply bg-white rounded-card shadow-soft border-0 hover:shadow-soft-hover transition-all duration-300; }
+  .gradient-card { @apply rounded-card shadow-soft border-0 text-white; background: linear-gradient(135deg, #8C7CF0 0%, #C6B9FF 100%); }
+  .btn-primary { @apply bg-primary-500 text-white rounded-button px-6 py-2.5 font-medium shadow-soft hover:shadow-glow hover:bg-primary-600 active:scale-[0.98] transition-all duration-200; }
+  .btn-ghost { @apply bg-transparent text-primary-500 rounded-button px-6 py-2.5 font-medium hover:bg-primary-50 transition-all duration-200; }
+  .input-soft { @apply w-full rounded-button border-0 bg-bg-primary px-4 py-3 text-sm outline-none ring-1 ring-primary-100 focus:ring-2 focus:ring-primary-400 placeholder:text-gray-400 transition-all duration-200; }
+  .tag-soft { @apply inline-flex items-center rounded-tag px-3 py-1 text-xs font-medium bg-soft-lavender text-primary-700; }
+  .page-title { @apply text-2xl font-bold text-gray-800; }
+  .page-subtitle { @apply text-sm text-gray-500 mt-1; }
+}

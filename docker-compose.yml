@@ -1,0 +1,37 @@
+services:
+  postgres:
+    image: postgres:16-alpine
+    container_name: utd24-postgres
+    restart: unless-stopped
+    environment:
+      POSTGRES_USER: utd24_admin
+      POSTGRES_PASSWORD: utd24_secure_pwd_2024
+      POSTGRES_DB: utd24_literature
+    ports:
+      - "5432:5432"
+    volumes:
+      - utd24-literature-platform_postgres_data:/var/lib/postgresql/data
+    healthcheck:
+      test: ["CMD-SHELL", "pg_isready -U utd24_admin -d utd24_literature"]
+      interval: 10s
+      timeout: 5s
+      retries: 5
+
+  app:
+    build:
+      context: .
+      dockerfile: backend/Dockerfile
+    container_name: utd24-app
+    restart: unless-stopped
+    environment:
+      DATABASE_URL: postgresql://utd24_admin:utd24_secure_pwd_2024@postgres:5432/utd24_literature
+      SECRET_KEY: change_me
+    ports:
+      - "8000:8000"
+    depends_on:
+      postgres:
+        condition: service_healthy
+
+volumes:
+  utd24-literature-platform_postgres_data:
+    external: true
