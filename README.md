@@ -25,12 +25,33 @@
 
 
 ## 页面展示
+
+**可视化页面**
+
 ![主仪表板](./image/screenshot-dashboard.png)
+
+**一键点击爬取文献**
+
 ![文献爬虫](./image/crawl.png)
+
+**文献可视化情况**
+
 ![文献可视化](./image/visualization.png)
+
+**文献列表页**
+
 ![文献列表](./image/screenshot-literature.png)
+
+**文献详情页**
+
 ![文献详情](./image/detail.png)
+
+**文献搜索页**
+
 ![搜索页](./image/screenshot-search.png)
+
+**个人收藏页**
+
 ![收藏页](./image/Favorites.png)
 
 
