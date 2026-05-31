@@ -3,7 +3,7 @@
  
 <h3> UTD24 from here · UTD24 可视化平台 <h3>
 
-简体中文(./README_Cn.md) | [English](./README_En.md)
+[简体中文](./README_Cn.md) | [English](./README_En.md)
 
  “博观而约取，厚积而薄发。”一一苏轼
 
