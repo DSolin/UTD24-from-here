@@ -48,6 +48,8 @@ Just open the browser and go to [http://localhost:8000](http://localhost:8000) t
 
 
 ## Function Overview
+<div align="center">
+  
 | Function | Description |
 | ------------ | ----------- |
 | World Map | Author global distribution, supports country-level drilling |
@@ -60,23 +62,28 @@ Just open the browser and go to [http://localhost:8000](http://localhost:8000) t
 | Star Collection | One-click collection and attention to literature |
 | CSV Export | One-click export of filtered results |
 | Update Data | One-click crawling of the latest literature, with real-time progress bar |
-
+</div>
 
 ## Data Source
+<div align="center">
+  
 | Source | Order |
 | ------------ | ----------- |
 |CrossRef| Mainstream |
 |Semantic Scholar| Second |
 |OpenAlex| Third | 
-
+</div>
 
 ## Technology Stack
+<div align="center">
+  
 | Level | Technology |
 | ------------ | ----------- |
 |Backend| FastAPI + SQLAlchemy + PostgreSQL |
 |Frontend| Vue 3 + TypeScript + Tailwind CSS |
 |Charts| Apache ECharts |
 |Infrastructure| Docker Compose |
+</div>
 
 ## API documentation
 http://localhost:8000/docs
