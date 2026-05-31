@@ -33,7 +33,7 @@
 ## 🚀 Get Started Quickly
 
 ### Step 1: Make sure that Docker is installed on your computer and is running.
-[docker下载](https://www.docker.com/)
+[docker download](https://www.docker.com/)
 
 ### Step 2: Enter the following commands in the cmd window
 ```bash
