@@ -1,4 +1,4 @@
-
+<div align="center">
 ![UTD from here](./image/banner.png)
 
 
@@ -6,8 +6,10 @@
 
 [简体中文](./README.md) | [English](./README_En.md)
 
-> *“Broad observation, frugal adoption; deep accumulation, slow expression.”一一Su Shi, a Chinese poet*
+*“Broad observation, frugal adoption; deep accumulation, slow expression.”一一Su Shi, a Chinese poet*
 
+</div>
+  
  **UTD24, as the top-ranked journal list in the field of economics and management, documents the most outstanding and cutting-edge academic achievements in the economic and management fields, laying the foundation for the entire academic edifice of economics and management. To enable researchers to better explore and absorb the latest findings from these 24 academic journals, UTD24-from-here collects all the journals through a platform and converts the original literature data into interactive dashboards: world maps, word clouds, trend charts, author collaboration networks, all available, facilitating learners to obtain value-added information through bibliometric methods.**
 
 
