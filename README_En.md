@@ -10,7 +10,7 @@
 
 </div>
   
- **UTD24, as the top-ranked journal list in the field of economics and management, documents the most outstanding and cutting-edge academic achievements in the economic and management fields, laying the foundation for the entire academic edifice of economics and management. To enable researchers to better explore and absorb the latest findings from these 24 academic journals, UTD24-from-here collects all the journals through a platform and converts the original literature data into interactive dashboards: world maps, word clouds, trend charts, author collaboration networks, all available, facilitating learners to obtain value-added information through bibliometric methods.**
+ **UTD24 is a top-ranked journal list in the field of economics and management, documenting the greatest and most cutting-edge academic achievements in the field of economics and management, and laying the foundation for the entire academic edifice of economics and management. However, when reading, it is very cumbersome to switch between various journal search pages. To facilitate everyone's better exploration and absorption of the latest achievements in these 24 academic journals, UTD24-from-here can automatically collect the data of these 24 journals and convert the original literature into interactive visual dashboards: author distribution map, keyword word cloud, publication trend chart, author collaboration network, all available, making it convenient for learners to obtain thinking through the visualization of literature data.**
 
 
 
